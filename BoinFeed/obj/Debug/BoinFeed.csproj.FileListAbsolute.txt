@@ -1,0 +1,40 @@
+C:\Users\Collen\AppData\Local\Temporary Projects\BoinFeed\bin\Debug\BoinFeed.exe.config
+C:\Users\Collen\AppData\Local\Temporary Projects\BoinFeed\bin\Debug\BoinFeed.exe
+C:\Users\Collen\AppData\Local\Temporary Projects\BoinFeed\bin\Debug\BoinFeed.pdb
+C:\Users\Collen\AppData\Local\Temporary Projects\BoinFeed\obj\Debug\BoinFeed.csprojResolveAssemblyReference.cache
+C:\Users\Collen\AppData\Local\Temporary Projects\BoinFeed\obj\Debug\BoinFeed.Form1.resources
+C:\Users\Collen\AppData\Local\Temporary Projects\BoinFeed\obj\Debug\BoinFeed.Properties.Resources.resources
+C:\Users\Collen\AppData\Local\Temporary Projects\BoinFeed\obj\Debug\BoinFeed.csproj.GenerateResource.Cache
+C:\Users\Collen\AppData\Local\Temporary Projects\BoinFeed\obj\Debug\BoinFeed.exe
+C:\Users\Collen\AppData\Local\Temporary Projects\BoinFeed\obj\Debug\BoinFeed.pdb
+F:\School2015.2\Prog\BoinFeed\BoinFeed\bin\Debug\BoinFeed.exe.config
+F:\School2015.2\Prog\BoinFeed\BoinFeed\obj\Debug\BoinFeed.exe
+F:\School2015.2\Prog\BoinFeed\BoinFeed\obj\Debug\BoinFeed.pdb
+F:\School2015.2\Prog\BoinFeed\BoinFeed\bin\Debug\BoinFeed.exe
+F:\School2015.2\Prog\BoinFeed\BoinFeed\bin\Debug\BoinFeed.pdb
+F:\School2015.2\Prog\BoinFeed\BoinFeed\obj\Debug\BoinFeed.csprojResolveAssemblyReference.cache
+F:\School2015.2\Prog\BoinFeed\BoinFeed\obj\Debug\BoinFeed.Form1.resources
+F:\School2015.2\Prog\BoinFeed\BoinFeed\obj\Debug\BoinFeed.Properties.Resources.resources
+F:\School2015.2\Prog\BoinFeed\BoinFeed\obj\Debug\BoinFeed.csproj.GenerateResource.Cache
+F:\School2015.2\Prog\BoinFeed\BoinFeed\obj\Debug\BoinFeed.NewsItem.resources
+F:\School2015.2\Prog\BoinFeed\BoinFeed\obj\Debug\BoinFeed.frmEditFeeds.resources
+E:\BoinFeed\BoinFeed\bin\Debug\BoinFeed.exe.config
+E:\BoinFeed\BoinFeed\obj\Debug\BoinFeed.exe
+E:\BoinFeed\BoinFeed\obj\Debug\BoinFeed.pdb
+E:\BoinFeed\BoinFeed\bin\Debug\BoinFeed.exe
+E:\BoinFeed\BoinFeed\bin\Debug\BoinFeed.pdb
+E:\BoinFeed\BoinFeed\obj\Debug\BoinFeed.Form1.resources
+E:\BoinFeed\BoinFeed\obj\Debug\BoinFeed.frmEditFeeds.resources
+E:\BoinFeed\BoinFeed\obj\Debug\BoinFeed.NewsItem.resources
+E:\BoinFeed\BoinFeed\obj\Debug\BoinFeed.Properties.Resources.resources
+E:\BoinFeed\BoinFeed\obj\Debug\BoinFeed.csproj.GenerateResource.Cache
+E:\BoinFeed\BoinFeed\obj\Debug\BoinFeed.frmOptions.resources
+E:\BoinFeed\BoinFeed\obj\Debug\BoinFeed.CheckedComboBox.resources
+E:\BoinFeed\BoinFeed\obj\Debug\BoinFeed.csprojResolveAssemblyReference.cache
+E:\BoinFeed\BoinFeed\bin\Debug\BoinFeed.exe.manifest
+E:\BoinFeed\BoinFeed\bin\Debug\BoinFeed.application
+E:\BoinFeed\BoinFeed\obj\Debug\BoinFeed.exe.manifest
+E:\BoinFeed\BoinFeed\obj\Debug\BoinFeed.application
+E:\School2016.1\Prog\BoinFeed\BoinFeed\bin\Debug\BoinFeed.exe.config
+E:\School2016.1\Prog\BoinFeed\BoinFeed\obj\Debug\BoinFeed.exe
+E:\School2016.1\Prog\BoinFeed\BoinFeed\obj\Debug\BoinFeed.pdb
